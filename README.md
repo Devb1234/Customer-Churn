@@ -92,7 +92,7 @@ streamlit run app.py
 
 ## 📎 Demo Screenshot
 
-![Demo](https://placehold.co/600x400?text=Customer+Churn+App+Demo)
+![Demo Screenshot](churn_demo_screenshot.png)
 
 🔗 Try it live: https://customer-churn-wsuq6ij6o4y4bld7uh38fp.streamlit.app/
 
